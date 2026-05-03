@@ -325,16 +325,6 @@ export function App() {
                 </a>
               </li>
               <li>
-                <span className="muted">Site</span>{" "}
-                <a
-                  href="https://ilyalinhnguyen.github.io/cv-website/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  ilyalinhnguyen.github.io/cv-website
-                </a>
-              </li>
-              <li>
                 <span className="muted">LinkedIn</span>{" "}
                 <a
                   href="https://www.linkedin.com/in/ilya-linh-nguyen/"
